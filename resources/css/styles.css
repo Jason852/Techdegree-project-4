@@ -454,24 +454,49 @@ a {
   background-color: #51ddfc;
 }
 
-/* line 19, ../../../../Techdegree-project-4/scss/components/_buttons.scss */
+/* line 17, ../../../../Techdegree-project-4/scss/components/_buttons.scss */
+.default:hover {
+  background-color: #83e7fd;
+}
+
+/* line 22, ../../../../Techdegree-project-4/scss/components/_buttons.scss */
 .error {
   background-color: #e4757a;
 }
 
-/* line 23, ../../../../Techdegree-project-4/scss/components/_buttons.scss */
+/* line 24, ../../../../Techdegree-project-4/scss/components/_buttons.scss */
+.error:hover {
+  background-color: #eca0a3;
+}
+
+/* line 29, ../../../../Techdegree-project-4/scss/components/_buttons.scss */
 .info {
   background-color: #927bc1;
 }
 
-/* line 27, ../../../../Techdegree-project-4/scss/components/_buttons.scss */
+/* line 31, ../../../../Techdegree-project-4/scss/components/_buttons.scss */
+.info:hover {
+  background-color: #af9ed1;
+}
+
+/* line 36, ../../../../Techdegree-project-4/scss/components/_buttons.scss */
 .success {
   background-color: #63cc82;
 }
 
-/* line 31, ../../../../Techdegree-project-4/scss/components/_buttons.scss */
+/* line 38, ../../../../Techdegree-project-4/scss/components/_buttons.scss */
+.success:hover {
+  background-color: #89d9a1;
+}
+
+/* line 43, ../../../../Techdegree-project-4/scss/components/_buttons.scss */
 .warning {
   background-color: #fd7856;
+}
+
+/* line 45, ../../../../Techdegree-project-4/scss/components/_buttons.scss */
+.warning:hover {
+  background-color: #fea088;
 }
 
 /* ============================================= */
