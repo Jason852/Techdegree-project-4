@@ -16,9 +16,17 @@
     transition:
       background-color .2s ease-in-out,
       color .2s ease-in-out;
+      @include mq("med") {
+        flex-basis: 100px;
+      }
   }
   &-link:hover {
     color: #fff;
     background-color: $color-headline;
   }
+  @include mq("med") {
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    }
 }
