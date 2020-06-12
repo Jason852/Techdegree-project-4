@@ -683,152 +683,152 @@ a {
   }
 }
 
-/* line 46, ../../../../Techdegree-project-4/scss/components/_grid.scss */
-.theme.col-1 {
-  background-color: #927bc1;
-}
-
 @media (min-width: 768px) {
   /* line 46, ../../../../Techdegree-project-4/scss/components/_grid.scss */
-  .theme.col-1 {
+  .col-1 {
     flex-basis: 8.33%;
   }
 }
 
-/* line 54, ../../../../Techdegree-project-4/scss/components/_grid.scss */
-.theme.col-2 {
-  background-color: #fd7856;
+/* line 50, ../../../../Techdegree-project-4/scss/components/_grid.scss */
+.col-1.theme {
+  background-color: #927bc1;
 }
 
 @media (min-width: 768px) {
-  /* line 54, ../../../../Techdegree-project-4/scss/components/_grid.scss */
-  .theme.col-2 {
+  /* line 55, ../../../../Techdegree-project-4/scss/components/_grid.scss */
+  .col-2 {
     flex-basis: 16.67%;
   }
 }
 
-/* line 61, ../../../../Techdegree-project-4/scss/components/_grid.scss */
-.theme.col-3 {
-  background-color: #deb2ee;
+/* line 59, ../../../../Techdegree-project-4/scss/components/_grid.scss */
+.col-2.theme {
+  background-color: #fd7856;
 }
 
 @media (min-width: 768px) {
-  /* line 61, ../../../../Techdegree-project-4/scss/components/_grid.scss */
-  .theme.col-3 {
+  /* line 64, ../../../../Techdegree-project-4/scss/components/_grid.scss */
+  .col-3 {
     flex-basis: 25.00%;
   }
 }
 
 /* line 68, ../../../../Techdegree-project-4/scss/components/_grid.scss */
-.theme.col-4 {
-  background-color: #7ee6fd;
+.col-3.theme {
+  background-color: #deb2ee;
 }
 
 @media (min-width: 768px) {
-  /* line 68, ../../../../Techdegree-project-4/scss/components/_grid.scss */
-  .theme.col-4 {
+  /* line 73, ../../../../Techdegree-project-4/scss/components/_grid.scss */
+  .col-4 {
     flex-basis: 33.33%;
   }
 }
 
-/* line 75, ../../../../Techdegree-project-4/scss/components/_grid.scss */
-.theme.col-5 {
-  background-color: #88d9a0;
-}
-
-@media (min-width: 768px) {
-  /* line 75, ../../../../Techdegree-project-4/scss/components/_grid.scss */
-  .theme.col-5 {
-    flex-basis: 41.67%;
-  }
-}
-
-/* line 82, ../../../../Techdegree-project-4/scss/components/_grid.scss */
-.theme.col-6 {
-  background-color: #4da2bb;
+/* line 77, ../../../../Techdegree-project-4/scss/components/_grid.scss */
+.col-4.theme {
+  background-color: #7ee6fd;
 }
 
 @media (min-width: 768px) {
   /* line 82, ../../../../Techdegree-project-4/scss/components/_grid.scss */
-  .theme.col-6 {
+  .col-5 {
+    flex-basis: 41.67%;
+  }
+}
+
+/* line 86, ../../../../Techdegree-project-4/scss/components/_grid.scss */
+.col-5.theme {
+  background-color: #88d9a0;
+}
+
+@media (min-width: 768px) {
+  /* line 91, ../../../../Techdegree-project-4/scss/components/_grid.scss */
+  .col-6 {
     flex-basis: 50.00%;
   }
 }
 
-/* line 89, ../../../../Techdegree-project-4/scss/components/_grid.scss */
-.theme.col-7 {
-  background-color: #ec9fa3;
+/* line 95, ../../../../Techdegree-project-4/scss/components/_grid.scss */
+.col-6.theme {
+  background-color: #4da2bb;
 }
 
 @media (min-width: 768px) {
-  /* line 89, ../../../../Techdegree-project-4/scss/components/_grid.scss */
-  .theme.col-7 {
+  /* line 100, ../../../../Techdegree-project-4/scss/components/_grid.scss */
+  .col-7 {
     flex-basis: 58.33%;
   }
 }
 
-/* line 96, ../../../../Techdegree-project-4/scss/components/_grid.scss */
-.theme.col-8 {
-  background-color: #fd9f85;
+/* line 104, ../../../../Techdegree-project-4/scss/components/_grid.scss */
+.col-7.theme {
+  background-color: #ec9fa3;
 }
 
 @media (min-width: 768px) {
-  /* line 96, ../../../../Techdegree-project-4/scss/components/_grid.scss */
-  .theme.col-8 {
+  /* line 109, ../../../../Techdegree-project-4/scss/components/_grid.scss */
+  .col-8 {
     flex-basis: 66.67%;
   }
 }
 
-/* line 103, ../../../../Techdegree-project-4/scss/components/_grid.scss */
-.theme.col-9 {
-  background-color: #e4757a;
+/* line 113, ../../../../Techdegree-project-4/scss/components/_grid.scss */
+.col-8.theme {
+  background-color: #fd9f85;
 }
 
 @media (min-width: 768px) {
-  /* line 103, ../../../../Techdegree-project-4/scss/components/_grid.scss */
-  .theme.col-9 {
+  /* line 118, ../../../../Techdegree-project-4/scss/components/_grid.scss */
+  .col-9 {
     flex-basis: 75.00%;
   }
 }
 
-/* line 110, ../../../../Techdegree-project-4/scss/components/_grid.scss */
-.theme.col-10 {
-  background-color: #63cc82;
+/* line 122, ../../../../Techdegree-project-4/scss/components/_grid.scss */
+.col-9.theme {
+  background-color: #e4757a;
 }
 
 @media (min-width: 768px) {
-  /* line 110, ../../../../Techdegree-project-4/scss/components/_grid.scss */
-  .theme.col-10 {
+  /* line 127, ../../../../Techdegree-project-4/scss/components/_grid.scss */
+  .col-10 {
     flex-basis: 83.33%;
   }
 }
 
-/* line 117, ../../../../Techdegree-project-4/scss/components/_grid.scss */
-.theme.col-11 {
-  background-color: #51ddfc;
+/* line 131, ../../../../Techdegree-project-4/scss/components/_grid.scss */
+.col-10.theme {
+  background-color: #63cc82;
 }
 
 @media (min-width: 768px) {
-  /* line 117, ../../../../Techdegree-project-4/scss/components/_grid.scss */
-  .theme.col-11 {
+  /* line 136, ../../../../Techdegree-project-4/scss/components/_grid.scss */
+  .col-11 {
     flex-basis: 91.67%;
   }
 }
 
-/* line 124, ../../../../Techdegree-project-4/scss/components/_grid.scss */
-.theme.col-12 {
-  background-color: #80e8d1;
+/* line 140, ../../../../Techdegree-project-4/scss/components/_grid.scss */
+.col-11.theme {
+  background-color: #51ddfc;
 }
 
 @media (min-width: 768px) {
-  /* line 124, ../../../../Techdegree-project-4/scss/components/_grid.scss */
-  .theme.col-12 {
+  /* line 145, ../../../../Techdegree-project-4/scss/components/_grid.scss */
+  .col-12 {
     flex-basis: 100%;
   }
 }
 
+/* line 149, ../../../../Techdegree-project-4/scss/components/_grid.scss */
+.col-12.theme {
+  background-color: #80e8d1;
+}
+
 @media (min-width: 768px) {
-  /* line 131, ../../../../Techdegree-project-4/scss/components/_grid.scss */
+  /* line 154, ../../../../Techdegree-project-4/scss/components/_grid.scss */
   .centered {
     display: block;
     margin-left: auto;
@@ -836,7 +836,7 @@ a {
   }
 }
 
-/* line 139, ../../../../Techdegree-project-4/scss/components/_grid.scss */
+/* line 162, ../../../../Techdegree-project-4/scss/components/_grid.scss */
 .card {
   flex-basis: 100%;
 }
